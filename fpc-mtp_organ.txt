@@ -1,3 +1,8 @@
-# FPC-MTP_Organ
+# Project Started for Restoration of First Presbyterian Church of Mount Pleasant Casavant Organ
+
+A [GoFundme project](https://www.gofundme.com/fpc-casavant-organ-restoration)has been started by Shepherd resident Mary Jo Roth Cox and posted for the Casavant organ owned by the First Presbyterian Church of Mount Pleasant:
+
+> Our wonderful Casavant organ at First Presbyterian Church, Mt. Pleasant, MI was built and installed in 1958 by Casavant Fréres, one of the best-known and most respected pipe organ builders in the world. It has been in continuous service since then and has been lovingly maintained and repaired as needed. The organ includes 25 stops, 30 ranks, and 1,933 pipes. Unfortunately, the original leathers, which are responsible for making electrical contact, moving stop knobs, and opening the valves under each pipe, are deteriorating and need to be replaced. The work will be done in two phases, with an an estimated  completion date of August 2018. The total cost for the first phase (releathering the Grand) is $26,950. This includes a 10% tithe that will be used for outreach and mission work. We are not a large church, and so this is a significant undertaking for the members and friends of this congregation. Music has always been a vital part of our ministry at FPC, and we are committed to continuing that tradition, even as we continue to grow in our understanding of what it means to be the church today.  We believe that we are called to be good stewards of what we have been given, and so we are committed to doing the necessary work that will allow the glorious sound of this organ to continue for many more years. We are extremely grateful for any donations – large or small. Your contribution will enable us to continue to “make a joyful noise to the Lord” and ensure that the sound of this beautiful instrument will continue for years to come.
+
 
 Write here...
