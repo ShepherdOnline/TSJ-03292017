@@ -8,3 +8,4 @@ schools/smssoftballfundraiser.txt
 schools/shs-announcements03242017.txt
 schools/shsequestrianteam.txt
 mid-michigan-news/midmichigan_icymi.txt
+spd-surroundings.txt
