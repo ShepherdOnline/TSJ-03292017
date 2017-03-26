@@ -4,6 +4,6 @@
 
 * March 27, 2017
 
-## Previous Issues:
+## Published Issues:
 
 * [March 22, 2017](https://www.gitbook.com/book/shepherdjrn/tsj-03232017/details)
