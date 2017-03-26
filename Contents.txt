@@ -7,3 +7,4 @@ maple-syrup-festival/royaltypageant2017.txt
 maple-syrup-festival/smsf-schedule.txt
 schools/smssoftballfundraiser.txt
 mid-michigan-news/midmichigan_icymi.txt
+shs-announcements03242017.txt
