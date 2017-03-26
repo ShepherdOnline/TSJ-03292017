@@ -6,3 +6,4 @@ chapter2.txt
 chapter3.txt
 smssoftballfundraiser.txt
 fpc-mtp_organ.txt
+royaltypageant2017.txt
