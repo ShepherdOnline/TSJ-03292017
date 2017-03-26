@@ -3,3 +3,4 @@ smssoftballfundraiser.txt
 fpc-mtp_organ.txt
 royaltypageant2017.txt
 smsf-schedule.txt
+eggscramble.txt
