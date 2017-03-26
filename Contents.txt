@@ -1,5 +1,4 @@
 About.txt
-jennys-diner-closing-on-april-2.txt
 community/eggscramble.txt
 community/jennysdinerclosing.txt
 community/fpc-mtp_organ.txt
@@ -7,5 +6,5 @@ maple-syrup-festival/royaltypageant2017.txt
 maple-syrup-festival/smsf-schedule.txt
 schools/smssoftballfundraiser.txt
 schools/shs-announcements03242017.txt
+schools/shsequestrianteam.txt
 mid-michigan-news/midmichigan_icymi.txt
-shsequestrianteam.txt
