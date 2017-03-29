@@ -1,7 +1,5 @@
 # Shepherd Chamber of Commerce Egg Scramble to take place April 15
 
-![eggscramble.png](../images/eggscramble.png)
-
 Shepherd Chamber of Commerce Easter Egg Scramble will be held Saturday, April 15 at 11am at Maple Creek Golf Course & Fireside Grille. The scrambles will be broken up into different age groups:
 
 * 2-4
