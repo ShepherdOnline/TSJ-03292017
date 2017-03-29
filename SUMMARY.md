@@ -2,8 +2,11 @@
 About.txt
 
 ##Community
-[](community/eggscramble.txt)
-
+* [Shepherd Chamber of Commerce Egg Scramble to take place April 15](community/eggscramble.md)
+* [Project Started for Restoration of First Presbyterian Church of Mount Pleasant Casavant Organ](community/fpc-mtp_organ.md)
+* [Meeting for Shepherd Garden Club to be held April 8](community/gardenclub.md)
+* [Jenny's Diner Closing on April 2](community/jennysdinerclosing.md)
+* 
 ##Shepherd Maple Syrup Festival
 maple-syrup-festival/royaltypageant2017.txt
 maple-syrup-festival/smsf-schedule.txt
