@@ -1,6 +1,5 @@
 
-About.txt
-
+[Cover Page](readme.md)
 ## Community
 * [Shepherd Chamber of Commerce Egg Scramble to take place April 15](community/eggscramble.md)
 * [Project Started for Restoration of First Presbyterian Church of Mount Pleasant Casavant Organ](community/fpc-mtp_organ.md)
@@ -11,8 +10,7 @@ About.txt
 * [Shepherd Royalty Pageant Contestants announced for 2017](maple-syrup-festival/royaltypageant2017.md)
 * [Schedule of Events for the Shepherd Maple Syrup Festival](maple-syrup-festival/smsf-schedule.md)
 ## Schools
-schools/smssoftballfundraiser.txt
-schools/shs-announcements03242017.txt
-schools/shsequestrianteam.txt
+* [SHS Equestrian Team](schools/shsequestrianteam.md)
+* [Shepherd Middle School Softball Fundraiser to be held on April 14th](schools/smssoftballfundraiser.txt)
 ## Mid Michigan
 [Mid Michigan News](mid-michigan-news/midmichigan_icymi.md)
