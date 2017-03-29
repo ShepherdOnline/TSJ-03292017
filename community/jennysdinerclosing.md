@@ -1,6 +1,6 @@
 # Jenny's Diner Closing on April 2
 
-![100_3872_595.jpg](images/100_3872_595.jpg)
+![100_3872_595.jpg](../images/100_3872_595.jpg)
 
 _The Morning Sun_ reported on March 25 that [Jenny's Diner will be closing on April 2](http://www.themorningsun.com/general-news/20170325/jennys-diner-in-shepherd-closing-becoming-full-time-catering-service). It's owner, Jenny Packer, is closing the restaurant to focus "solely on catering orders full-time."
 
