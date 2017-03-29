@@ -8,8 +8,8 @@ About.txt
 * [Jenny's Diner Closing on April 2](community/jennysdinerclosing.md)
 * [Stay Aware of Your Surroundings](community/spd-surroundings.md)
 ##Shepherd Maple Syrup Festival
-maple-syrup-festival/royaltypageant2017.txt
-maple-syrup-festival/smsf-schedule.txt
+* [Shepherd Royalty Pageant Contestants announced for 2017](maple-syrup-festival/royaltypageant2017.md)
+* [Schedule of Events for the Shepherd Maple Syrup Festival](maple-syrup-festival/smsf-schedule.txt)
 ## Schools
 schools/smssoftballfundraiser.txt
 schools/shs-announcements03242017.txt
