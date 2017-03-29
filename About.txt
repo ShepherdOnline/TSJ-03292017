@@ -1,9 +1,0 @@
-# The Shepherd Journal
-
-## In Progress:
-
-* March 27, 2017
-
-## Published Issues:
-
-* [March 22, 2017](https://www.gitbook.com/book/shepherdjrn/tsj-03232017/details)
