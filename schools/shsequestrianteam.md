@@ -1,6 +1,6 @@
 # SHS Equestrian Team
 
-![johnny-automatic-horse-silhouette-800px.png](images/johnny-automatic-horse-silhouette-800px.png)
+![johnny-automatic-horse-silhouette-800px.png](../images/johnny-automatic-horse-silhouette-800px.png)
 
 There was a meeting on Sunday, March 26th inside the Shepherd Maple Room for high school students who were interested in joining. Fundraisers and an upcoming show were going to be discussed.
 
