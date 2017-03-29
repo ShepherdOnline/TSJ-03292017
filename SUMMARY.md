@@ -9,7 +9,7 @@ About.txt
 * [Stay Aware of Your Surroundings](community/spd-surroundings.md)
 ##Shepherd Maple Syrup Festival
 * [Shepherd Royalty Pageant Contestants announced for 2017](maple-syrup-festival/royaltypageant2017.md)
-* [Schedule of Events for the Shepherd Maple Syrup Festival](maple-syrup-festival/smsf-schedule.txt)
+* [Schedule of Events for the Shepherd Maple Syrup Festival](maple-syrup-festival/smsf-schedule.md)
 ## Schools
 schools/smssoftballfundraiser.txt
 schools/shs-announcements03242017.txt
